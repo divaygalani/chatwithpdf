@@ -4,7 +4,7 @@
 
 🌐 **Frontend Website (Landing Page):**  
 🔗 [chatwithpdf.infinityfreeapp.com](https://chatwithpdf.infinityfreeapp.com)  
-📁 [Source Code](https://github.com/HyderPre/chatwithpdfweb)
+📁 [Source Code] is stored in *chatwithpdfweb-main* folder
 
 🤖 **AI Chatbot (PDF + GPT backend):**  
 🔗 [chat-chatwithpdf.zone.id](https://chat-chatwithpdf.zone.id)  
@@ -130,4 +130,5 @@ You **must obtain written permission** before copying, reusing, modifying, or di
 
 ## #️⃣ Hashtags for SEO
 #ChatWithPDF #PDFChatbot #ChatWithDocuments #PDFtoText #PDFQuery #PDFInsights #PDFSummarizer #AskYourPDF #AIPDFReader #OpenAIPDF #FlaskApp #FlaskWebApp #PythonFlask #FlaskProject #ChatPDFApp #ChatWithPDFs #PDFBot #OpenAIIntegration #OAuthLogin #GoogleLogin #GitHubLogin #SecureLogin #MultipleFileUpload #DragAndDropUpload #RecentChats #PDFSearch #AIWebApp #NLPApp #OpenAIPowered #NaturalLanguageChat #SmartDocumentReader #PDFQA #AskDocs #FlaskOAuth #AIFlaskApp #AIPoweredApp #GPTIntegration #OpenAISDK #LLMChatApp #PythonWebProject #AcademicTool #StudyAssistant #DocumentChatbot #StudentTool #FlaskFrontend #ResponsiveFlaskApp #JinjaTemplates #FlaskAuth #FlaskOAuth2 #SemanticSearchPDF #MultifileUpload #DragDropPDF #ChatbotWebApp #ModernWebApp #InteractivePDFTool #PDFChatSystem #ReadPDFWithAI #ChatWithPDFFiles #FlaskAIApp #FileUploadFlask #OpenSourceFlask #PDFInterface #CollegeProject #FinalYearProject #HackathonProject #FlaskHackathon #OpenAIChatbot #StudyWithAI #EduTechTool #AIDocumentChat #SmartPDFUploader #FlaskBasedApp #MinimalWebApp #CleanUI #AIUseCase #OpenAIAssistant #EducationalAI #FileChatAI #IntelligentChatbot #DocumentAssistant #PythonMiniProject #OpenSourceTool #FlaskOpenAI #OpenAIFlaskBot #PDFBotAI #ChatPDF #FlaskGPT #FlaskAppWithLogin #OAuth2Login #FileReaderAI #AskMyPDF #QueryPDF #SummarizePDF #FlaskWebTool #HTMLCSSJSFlask #FlaskUploadTool #UploadPDFandChat #DragDropFiles #LoginWithGoogle #LoginWithGitHub #PythonDocumentBot #InteractiveDocs #DocsWithAI #LLMWebApp #PDFAIChat #ChatAssistant #SmartPDFTool #OpenSourceAIApp #AIAssistedReading #FlaskToolbox #EduPDFChat #FlaskUIApp #FlaskPDFProcessor #CustomPDFBot #ContextAwareChat #RecentChatFlask #DocumentInteraction #LLMWithPDF #AIFlaskLogin #FlaskUIMagic #FlaskProjectTemplate #OpenAIBot #FlaskFormApp #AIChatPlatform #GPTPDFAssistant #SmartReaderWebApp #OpenAIDocumentBot #PDFAnalyzerAI #PythonOAuthApp #FlaskJinjaApp #UploadNChat #PDFConverterBot #EdTechFlaskTool #PythonAIProjects #ChatBotFlaskOpenAI #OpenAIInWebApp #FlaskBeginnerProject #OpenAIAssistantBot #DragDropChat #FileUploadTool #InteractiveDocsApp #OpenAIPDFChat #EducationalPDFChat #AskYourDocuments #PDFChatSolution #FlaskGPTBot #SmartPDFApp #SimplePDFChatApp #MiniFlaskProject #GitHubTrendingProject #AIPDFAnalyzer
+
 
